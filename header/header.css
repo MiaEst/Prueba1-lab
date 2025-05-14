@@ -1,0 +1,12 @@
+.header{
+    width: 1440px;
+    height: 42px;
+    background-color: beige ;
+    flex-direction: row;
+}
+.meromero{
+    width: 1140px;
+    height: 3035px;
+    top: -513px;
+    margin-right: 70px;
+}

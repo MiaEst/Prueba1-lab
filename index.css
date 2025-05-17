@@ -1,1 +1,42 @@
+.Caja1{
+    width: 1440px;
+    height: 42px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+}
+.Caja2 {
+    justify-content: space-between;
+    align-items: end;
 
+}
+
+.nav{
+    width: 1440px;
+    height: 90px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ; 
+}
+.left,
+.center,
+.right {
+  display: flex;
+  align-items: center;
+  gap: 10px; /* espacio entre íconos */
+}
+.center {
+    flex: 1; /* hace que el buscador se expanda */
+    justify-content: center;
+  }
+  .right {
+    justify-content: flex-end;
+  }
+  .Categorias{
+    
+    width: 1440;
+    height: 69px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  }

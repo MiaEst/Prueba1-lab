@@ -1,0 +1,50 @@
+.MegaMartult{
+    margin-top: 8rem;
+    margin: 10px;
+    width: 1440px;
+    height: 500px;
+    display: flex;
+    align-items: flex-start; 
+    padding: 5rem;
+    gap: 15rem;
+}
+.abajo{
+    justify-content: end;
+    
+}
+.footer{
+    justify-content: space-between;
+    width: 1440px;
+    height: 592px;
+    background-color: #008ECC;
+}
+.seccion1{
+    flex-direction: column;
+    display: flex;
+}
+.contact{
+    width: 99px;
+    height: 20px;
+    padding: 1.5rem;
+    
+}
+.wasa{
+    width: 163px;
+    height: 42px;
+    padding: 1rem;
+}
+.call{
+    width: 163px;
+    height: 43px;
+    padding: 1rem;
+}
+.download{
+    width: 130px;
+    height: 20px;
+    padding: 1.5rem;
+}
+.title{
+    width: 217px;
+    height: 44;
+    padding: 1.5rem;
+}

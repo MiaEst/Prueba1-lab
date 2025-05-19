@@ -1,0 +1,11 @@
+.categorias{
+    margin-left: -0;
+    justify-content: space-between;
+}
+.imgcate{
+    justify-content: space-between;
+    margin-top: 2px;
+}
+.view{
+    justify-content: flex-end;
+}

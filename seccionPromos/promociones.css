@@ -1,0 +1,51 @@
+.smartphones{
+    background-color: white;
+}
+
+.smartphones .titulo{
+    margin: 40px auto;
+    padding: 1px;
+    top: 50pxpx;
+    left: 50px;
+}
+.smartphones .view{
+ margin-left: auto;
+ cursor: pointer;
+}
+.telefonos{
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    gap: 10px;
+
+}
+.tel1{
+    width: 227px;
+    height: 295px;
+    top: 742px;
+    left: 363px;
+    justify-content: space-between;
+}
+.tel2{
+    width: 227px;
+    height: 295;
+    top: 742px;
+    
+} 
+.tel3{
+    width: 227px;
+    height: 295px;
+    top: 742px;
+    
+}
+.tel4{
+    width: 227px;
+    height: 295px;
+    top: 742px;
+}
+.tel5{
+    width: 227px;
+    height: 295px;
+    top: 742px;
+} 
+ 

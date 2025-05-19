@@ -1,3 +1,48 @@
-.rectangulo{
-    margin-top: 10px;
-}
+.rectangulo {
+    background-color: #1f2744;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 60px 20px;
+    position: relative;
+  }
+  
+  .rectango-slide{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    gap: 40px;
+    max-width: 1200px;
+    color: white;
+    flex-wrap: wrap;
+  }
+  
+  .texto {
+    flex: 1;
+    padding: 20px;
+    top: 260px;
+    left: 210px;
+    max-width: 574px;
+    max-height: 156px;
+    gap: 20px;
+  }
+  
+  .reloj {
+    flex: 1;
+    text-align: right;
+  }
+  
+  .smartw {
+    max-width: 300px;
+    height: auto;
+    object-fit: contain;
+  }
+  .puntos{
+    object-fit: contain;
+    margin-bottom: 20px;
+    left: 210px;
+    gap: 20px;
+  }
+  
+ 

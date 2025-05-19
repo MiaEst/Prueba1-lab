@@ -34,9 +34,20 @@
     justify-content: flex-end;
   }
   .Categorias{
-    
     width: 1440;
     height: 69px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  }
+  .rectangulo{
+      width: 1201px;
+      height: 316px;
+      margin: 40px auto; /* 👈 Centrado horizontal */
+      background-color: #1f2744;
+      border-radius: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;     /* 👈 Necesario para posicionar flechas dentro */
+      overflow: visible;      /* 👈 Permite que las flechas salgan visualmente */
   }

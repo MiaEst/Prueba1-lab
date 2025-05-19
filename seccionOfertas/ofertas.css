@@ -1,0 +1,15 @@
+.ElectricBrands{
+    margin-top: 10px;
+}
+.titulo3{
+    margin-top: 40px;
+    justify-content: space-between;
+}
+.imga{
+    justify-content: space-between;
+    gap: 20px;
+}
+.punticos{
+   justify-content: center;
+    margin-bottom: 10px;
+}
